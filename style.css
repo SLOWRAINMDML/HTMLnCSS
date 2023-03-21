@@ -1,0 +1,20 @@
+.samsung {
+  color: blue;
+}
+.fast-campus {
+  width: 100px;
+}
+#samsung {
+  color: blue;
+}
+button:link {
+  color: red;
+}
+
+button:hover {
+  color: red;
+}
+
+button:active {
+  color: red;
+}
